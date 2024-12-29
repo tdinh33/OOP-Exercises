@@ -1,0 +1,14 @@
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\bin\Debug\net8.0\OOP.exe
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\bin\Debug\net8.0\OOP.deps.json
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\bin\Debug\net8.0\OOP.runtimeconfig.json
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\bin\Debug\net8.0\OOP.dll
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\bin\Debug\net8.0\OOP.pdb
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\OOP.dll
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\refint\OOP.dll
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\OOP.pdb
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+D:\JungTalent project\.NET\OOP\Exercises\OOP\OOP\obj\Debug\net8.0\ref\OOP.dll
